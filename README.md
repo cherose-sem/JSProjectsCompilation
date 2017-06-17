@@ -1,5 +1,6 @@
-# JSProjectsCompilation
-Full-Stack JavaScript (4th Semester-2017) Assignments
+## JSProjectsCompilation
+# Full-Stack JavaScript 
+(4th Semester-2017) Assignments
 
 ### Period 1: 
 Vanilla JavaScript
